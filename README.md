@@ -26,13 +26,11 @@
 ###
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="left" display="inline-block">
-    <p>
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  </p>
-</div>
+</p>
 
 ###
 
