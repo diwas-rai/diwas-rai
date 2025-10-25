@@ -3,11 +3,11 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Diwas</h1>
-<h3 align="center">A developer from the UK currently studying Computer Science at King's College London</h3>
+<h3 align="center">A fullstack developer from the UK currently studying Computer Science at King's College London</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diwas-rai&label=Profile%20views&color=0091ff&style=flat" alt="diwas-rai" /> </p>
 
-- 🔭 I’m currently working on LoL Compare
+- 🔭 I’m currently working on [LoL Compare](https://github.com/diwas-rai/lol-compare)
 
 - 🌱 I’m currently learning **Python, FastAPI, Pandas, Docker, AWS**
 
@@ -26,19 +26,23 @@
 ###
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="left">
+<div align="left" display="inline">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
 </div>
 
-<div align="left">
+###
+
+<div align="left" display="inline">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
 </div>
 
-<div align="left">
+###
+
+<div align="left" display="inline">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
@@ -48,7 +52,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
 </div>
 
-<div align="left">
+###
+
+<div align="left" display="inline">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -64,7 +70,7 @@
 
 ###
 
-<h3 align="left">Some Extra Stuff</h3>
+<h3 align="left">Some Extra Stuff:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diwas-rai&show_icons=true&locale=en&layout=compact" alt="diwas-rai" /></p>
 
 ###
