@@ -46,7 +46,7 @@
 
 <h3 align="left">Some Extra Stuff:</h3>
 
-[![Diwas' GitHub stats](https://github-readme-stats.vercel.app/api?username=diwas-rai&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Diwas' GitHub stats](https://github-readme-stats.vercel.app/api?username=diwas-rai&show_icons=true&theme=tokyonight)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diwas-rai/diwas-rai/output/pacman-contribution-graph-dark.svg">
