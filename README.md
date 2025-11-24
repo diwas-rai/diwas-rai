@@ -42,7 +42,7 @@
 </div>
 
 <h3 align="left">Some Extra Stuff:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diwas-rai&show_icons=true&locale=en&layout=compact" alt="diwas-rai" /></p>
+[![Diwas' GitHub stats](https://github-readme-stats.vercel.app/api?username=diwas-rai)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diwas-rai/diwas-rai/output/pacman-contribution-graph-dark.svg">
