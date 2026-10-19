@@ -9,8 +9,8 @@
   <img src="https://komarev.com/ghpvc/?username=diwas-rai&label=Profile%20views&color=0091ff&style=flat" alt="diwas-rai" />
 </p>
 
-- 🔭 I’m currently working on [LoL Compare](https://github.com/diwas-rai/lol-compare)
-- 🌱 I’m currently learning **Python, FastAPI, Pandas, Docker, AWS**
+- 🔭 I’m currently working on some personal projects
+- 🌱 I’m currently learning **Python, C++, Linux**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
