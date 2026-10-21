@@ -10,7 +10,7 @@
 </p>
 
 - 🔭 I’m currently working on some personal projects
-- 🌱 I’m currently learning **Python, C++, Linux**
+- 🌱 I’m currently learning **C++, Linux**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
