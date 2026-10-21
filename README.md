@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Diwas</h1>
-<h3 align="center">A fullstack developer from the UK currently studying Computer Science at King's College London</h3>
+<h3 align="center">A developer from the UK currently working at Fitch Group</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=diwas-rai&label=Profile%20views&color=0091ff&style=flat" alt="diwas-rai" />
